@@ -1,0 +1,15 @@
+{
+   "firstName": "Muhammad Ilham",
+   "lastName": "Ridzuan",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Sukapura",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+   ]
+}
