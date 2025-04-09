@@ -1,0 +1,25 @@
+﻿{
+  "members": [
+    {
+      "firstName": "avriela",
+      "lastName": "nada",
+      "gender": "female",
+      "age": 19,
+      "nim": "103022300066"
+    },
+    {
+      "firstName": "pieter",
+      "lastName": "immanuel",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022330111"
+    },
+    {
+      "firstName": "ilham",
+      "lastName": "ridzuan",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300033"
+    }
+  ]
+}
