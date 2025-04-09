@@ -1,0 +1,21 @@
+﻿{
+  "firstName": "avriela",
+  "lastName": "nada",
+  "gender": "female",
+  "age": 19,
+  "address": {
+    "streetAddress": "Ciganitri",
+    "city": "Bandung",
+    "state": "West Java"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CCK2JAC2",
+      "name": "Proyek Tingkat II"
+    }
+  ]
+}
