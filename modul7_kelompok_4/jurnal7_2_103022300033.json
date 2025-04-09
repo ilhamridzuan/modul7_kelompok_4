@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Muhammad Ilham",
+       "lastName": "Ridzuan",
+       "gender": "male",
+       "age": 19,
+       "nim": "103022300033"
+    },
+    {
+       "firstName": "Pieter Immanuel",
+       "lastName": "Sinaga",
+       "gender": "male",
+       "age": 19,
+       "nim": "103022330111"
+    },
+    {
+      "firstName": "Avriela Nada",
+      "lastName": "Amara Putri",
+      "gender": "female",
+      "age": 19,
+      "nim": "103022300066"
+    },
+    {
+      "firstName": "Alfian Rizky",
+      "lastName": "Sabian",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022300038"
+    }
+  ]
+}
